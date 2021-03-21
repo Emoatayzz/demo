@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48ba36bb-e79d-46d3-9923-1612c0998334" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/zouc/demo/VoiceDemo.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/Tools/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcJT0MaSoUExfbnvqi2WUFKZY2" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zouc.demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo4">
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zouc.pojo.Demo" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zouc.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zouc.demo.Demo4" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zouc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zouc.demo.Demo5" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zouc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zouc.demo.Demo6" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zouc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringIndexHuanHang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zouc.StringIndexHuanHang" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zouc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo4" />
+        <item itemvalue="Application.Demo6" />
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.Demo (2)" />
+        <item itemvalue="Application.StringIndexHuanHang" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48ba36bb-e79d-46d3-9923-1612c0998334" name="Default Changelist" comment="" />
+      <created>1583235952096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583235952096</updated>
+      <workItem from="1583235956935" duration="4597000" />
+      <workItem from="1583562780694" duration="1184000" />
+      <workItem from="1583639531046" duration="592000" />
+      <workItem from="1583743483718" duration="1417000" />
+      <workItem from="1583894826080" duration="580000" />
+      <workItem from="1583918304471" duration="553000" />
+      <workItem from="1584003947974" duration="1274000" />
+      <workItem from="1584065553080" duration="587000" />
+      <workItem from="1584090387735" duration="3383000" />
+      <workItem from="1584589946264" duration="1358000" />
+      <workItem from="1584758641478" duration="15626000" />
+      <workItem from="1585274641369" duration="589000" />
+      <workItem from="1585276697550" duration="5883000" />
+      <workItem from="1585530785157" duration="7626000" />
+      <workItem from="1586222129499" duration="1277000" />
+      <workItem from="1586308436026" duration="594000" />
+      <workItem from="1586318453131" duration="1197000" />
+      <workItem from="1586405934865" duration="593000" />
+      <workItem from="1586414071339" duration="3651000" />
+      <workItem from="1586740351345" duration="5733000" />
+      <workItem from="1586999586244" duration="2263000" />
+      <workItem from="1587346028396" duration="591000" />
+      <workItem from="1587375601147" duration="3112000" />
+      <workItem from="1587518270900" duration="576000" />
+      <workItem from="1587606706375" duration="214000" />
+      <workItem from="1587607686168" duration="3794000" />
+      <workItem from="1587864384179" duration="1912000" />
+      <workItem from="1588061700217" duration="659000" />
+      <workItem from="1588727981303" duration="6321000" />
+      <workItem from="1589116769848" duration="448000" />
+      <workItem from="1589162475591" duration="561000" />
+      <workItem from="1589352981497" duration="4097000" />
+      <workItem from="1589448037474" duration="1189000" />
+      <workItem from="1591060612564" duration="3507000" />
+      <workItem from="1591147792835" duration="1241000" />
+      <workItem from="1592212835764" duration="3088000" />
+      <workItem from="1592444212034" duration="3657000" />
+      <workItem from="1592788912041" duration="2554000" />
+      <workItem from="1593755320469" duration="2261000" />
+      <workItem from="1594610916192" duration="2037000" />
+      <workItem from="1594718936688" duration="1325000" />
+      <workItem from="1594865606730" duration="308000" />
+      <workItem from="1594865981796" duration="178000" />
+      <workItem from="1594866187172" duration="593000" />
+      <workItem from="1594884659501" duration="1196000" />
+      <workItem from="1595067173926" duration="615000" />
+      <workItem from="1595208297402" duration="1382000" />
+      <workItem from="1595381321885" duration="2022000" />
+      <workItem from="1595570208266" duration="593000" />
+      <workItem from="1595813806466" duration="662000" />
+      <workItem from="1595830176987" duration="3358000" />
+      <workItem from="1596092656646" duration="2018000" />
+      <workItem from="1596163093014" duration="4645000" />
+      <workItem from="1596274984010" duration="8404000" />
+      <workItem from="1596503822889" duration="1186000" />
+      <workItem from="1596594529234" duration="570000" />
+      <workItem from="1596595418605" duration="1198000" />
+      <workItem from="1596861935580" duration="578000" />
+      <workItem from="1597021579543" duration="581000" />
+      <workItem from="1597022652337" duration="574000" />
+      <workItem from="1597040121229" duration="1400000" />
+      <workItem from="1597201836781" duration="787000" />
+      <workItem from="1597649284601" duration="218000" />
+      <workItem from="1600581224336" duration="16000" />
+      <workItem from="1600581749974" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zouc/demo/Demo.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>
